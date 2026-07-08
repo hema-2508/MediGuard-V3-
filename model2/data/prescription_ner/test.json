@@ -1,0 +1,149 @@
+[
+  {
+    "text": "Tab. Levocetirizine 5 mg 1 tab OD x 5 days PO",
+    "tokens": [
+      "Tab.",
+      "Levocetirizine",
+      "5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "5",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Digoxin 0.25 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Digoxin",
+      "0.25",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Isosorbide Mononitrate 30 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Isosorbide",
+      "Mononitrate",
+      "30",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "I-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Tamsulosin 0.4 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Tamsulosin",
+      "0.4",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Finasteride 5 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Finasteride",
+      "5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  }
+]

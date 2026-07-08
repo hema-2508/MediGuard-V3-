@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+virt/
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Model caches
+cache/
+
+# Training outputs
+results/
+
+# Model checkpoints (large files)
+checkpoints/
+
+# Model2 checkpoints
+model2/checkpoints/
+
+# Model2 cache
+model2/cache/
+
+# Model2 logs/results
+model2/logs/
+model2/results/
+
+# Temporary files
+*.tmp
+*.bak

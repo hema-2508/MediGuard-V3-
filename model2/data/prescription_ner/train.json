@@ -1,0 +1,1172 @@
+[
+  {
+    "text": "Tab. Metformin 500 mg 1 tab twice daily after food for 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Metformin",
+      "500",
+      "mg",
+      "1",
+      "tab",
+      "twice",
+      "daily",
+      "after",
+      "food",
+      "for",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Cap. Omeprazole 20 mg 1 capsule OD before breakfast x 14 days",
+    "tokens": [
+      "Cap.",
+      "Omeprazole",
+      "20",
+      "mg",
+      "1",
+      "capsule",
+      "OD",
+      "before",
+      "breakfast",
+      "x",
+      "14",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Syr. Amoxicillin 250 mg/5 ml 5 ml TDS x 7 days PO",
+    "tokens": [
+      "Syr.",
+      "Amoxicillin",
+      "250",
+      "mg/5",
+      "ml",
+      "5",
+      "ml",
+      "TDS",
+      "x",
+      "7",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Inj. Ceftriaxone 1 g IV OD x 5 days",
+    "tokens": [
+      "Inj.",
+      "Ceftriaxone",
+      "1",
+      "g",
+      "IV",
+      "OD",
+      "x",
+      "5",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-ROUTE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Atorvastatin 10 mg 1 tab at bedtime for 90 days PO",
+    "tokens": [
+      "Tab.",
+      "Atorvastatin",
+      "10",
+      "mg",
+      "1",
+      "tab",
+      "at",
+      "bedtime",
+      "for",
+      "90",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Paracetamol 650 mg 1 tab SOS for fever",
+    "tokens": [
+      "Tab.",
+      "Paracetamol",
+      "650",
+      "mg",
+      "1",
+      "tab",
+      "SOS",
+      "for",
+      "fever"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Cap. Doxycycline 100 mg 1 cap BD after meals x 10 days",
+    "tokens": [
+      "Cap.",
+      "Doxycycline",
+      "100",
+      "mg",
+      "1",
+      "cap",
+      "BD",
+      "after",
+      "meals",
+      "x",
+      "10",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Levothyroxine 50 mcg 1 tab daily empty stomach lifelong PO",
+    "tokens": [
+      "Tab.",
+      "Levothyroxine",
+      "50",
+      "mcg",
+      "1",
+      "tab",
+      "daily",
+      "empty",
+      "stomach",
+      "lifelong",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "B-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Amlodipine 5 mg 1 tab OD x 30 days",
+    "tokens": [
+      "Tab.",
+      "Amlodipine",
+      "5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Losartan 50 mg 1 tab OD morning x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Losartan",
+      "50",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "morning",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Syr. Ibuprofen 100 mg/5 ml 10 ml TDS x 3 days PO",
+    "tokens": [
+      "Syr.",
+      "Ibuprofen",
+      "100",
+      "mg/5",
+      "ml",
+      "10",
+      "ml",
+      "TDS",
+      "x",
+      "3",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Azithromycin 500 mg 1 tab OD x 3 days before food",
+    "tokens": [
+      "Tab.",
+      "Azithromycin",
+      "500",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "3",
+      "days",
+      "before",
+      "food"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Tab. Pantoprazole 40 mg 1 tab OD before breakfast x 14 days",
+    "tokens": [
+      "Tab.",
+      "Pantoprazole",
+      "40",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "before",
+      "breakfast",
+      "x",
+      "14",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Clopidogrel 75 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Clopidogrel",
+      "75",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Inhaler Salbutamol 100 mcg/puff 2 puffs QDS PRN",
+    "tokens": [
+      "Inhaler",
+      "Salbutamol",
+      "100",
+      "mcg/puff",
+      "2",
+      "puffs",
+      "QDS",
+      "PRN"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O"
+    ]
+  },
+  {
+    "text": "Tab. Metoprolol 25 mg 1 tab BD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Metoprolol",
+      "25",
+      "mg",
+      "1",
+      "tab",
+      "BD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Ciprofloxacin 500 mg 1 tab BD x 5 days after food PO",
+    "tokens": [
+      "Tab.",
+      "Ciprofloxacin",
+      "500",
+      "mg",
+      "1",
+      "tab",
+      "BD",
+      "x",
+      "5",
+      "days",
+      "after",
+      "food",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "O",
+      "O",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Sertraline 50 mg 1 tab OD x 30 days",
+    "tokens": [
+      "Tab.",
+      "Sertraline",
+      "50",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Furosemide 40 mg 1 tab OD morning x 7 days PO",
+    "tokens": [
+      "Tab.",
+      "Furosemide",
+      "40",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "morning",
+      "x",
+      "7",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Cap. Fluconazole 150 mg 1 cap stat PO",
+    "tokens": [
+      "Cap.",
+      "Fluconazole",
+      "150",
+      "mg",
+      "1",
+      "cap",
+      "stat",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Gabapentin 300 mg 1 tab TDS x 14 days",
+    "tokens": [
+      "Tab.",
+      "Gabapentin",
+      "300",
+      "mg",
+      "1",
+      "tab",
+      "TDS",
+      "x",
+      "14",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Insulin Glargine 10 units SC at bedtime",
+    "tokens": [
+      "Tab.",
+      "Insulin",
+      "Glargine",
+      "10",
+      "units",
+      "SC",
+      "at",
+      "bedtime"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "I-MEDICINE",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-ROUTE",
+      "B-FREQUENCY",
+      "I-FREQUENCY"
+    ]
+  },
+  {
+    "text": "Tab. Warfarin 5 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Warfarin",
+      "5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Hydrochlorothiazide 12.5 mg 1 tab OD x 30 days",
+    "tokens": [
+      "Tab.",
+      "Hydrochlorothiazide",
+      "12.5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Prednisolone 5 mg 2 tabs OD x 5 days PO",
+    "tokens": [
+      "Tab.",
+      "Prednisolone",
+      "5",
+      "mg",
+      "2",
+      "tabs",
+      "OD",
+      "x",
+      "5",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Montelukast 10 mg 1 tab at bedtime x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Montelukast",
+      "10",
+      "mg",
+      "1",
+      "tab",
+      "at",
+      "bedtime",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Rosuvastatin 10 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Rosuvastatin",
+      "10",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Tramadol 50 mg 1 tab TDS PRN pain x 5 days",
+    "tokens": [
+      "Tab.",
+      "Tramadol",
+      "50",
+      "mg",
+      "1",
+      "tab",
+      "TDS",
+      "PRN",
+      "pain",
+      "x",
+      "5",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Alendronate 70 mg 1 tab once weekly x 4 weeks PO",
+    "tokens": [
+      "Tab.",
+      "Alendronate",
+      "70",
+      "mg",
+      "1",
+      "tab",
+      "once",
+      "weekly",
+      "x",
+      "4",
+      "weeks",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "I-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Escitalopram 10 mg 1 tab OD x 30 days",
+    "tokens": [
+      "Tab.",
+      "Escitalopram",
+      "10",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION"
+    ]
+  },
+  {
+    "text": "Tab. Spironolactone 25 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Spironolactone",
+      "25",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Allopurinol 100 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Allopurinol",
+      "100",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Bisoprolol 2.5 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Bisoprolol",
+      "2.5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Telmisartan 40 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Telmisartan",
+      "40",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Sitagliptin 100 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Sitagliptin",
+      "100",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Empagliflozin 10 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Empagliflozin",
+      "10",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Ramipril 5 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Ramipril",
+      "5",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Ferrous Sulfate 325 mg 1 tab OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Ferrous",
+      "Sulfate",
+      "325",
+      "mg",
+      "1",
+      "tab",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "I-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Vitamin D3 60000 IU 1 tab weekly x 8 weeks PO",
+    "tokens": [
+      "Tab.",
+      "Vitamin",
+      "D3",
+      "60000",
+      "IU",
+      "1",
+      "tab",
+      "weekly",
+      "x",
+      "8",
+      "weeks",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "I-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-DOSAGE",
+      "I-DOSAGE",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  },
+  {
+    "text": "Tab. Metformin 500 mg BD and Tab. Glimepiride 2 mg OD x 30 days PO",
+    "tokens": [
+      "Tab.",
+      "Metformin",
+      "500",
+      "mg",
+      "BD",
+      "and",
+      "Tab.",
+      "Glimepiride",
+      "2",
+      "mg",
+      "OD",
+      "x",
+      "30",
+      "days",
+      "PO"
+    ],
+    "labels": [
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-FREQUENCY",
+      "O",
+      "O",
+      "B-MEDICINE",
+      "B-STRENGTH",
+      "I-STRENGTH",
+      "B-FREQUENCY",
+      "O",
+      "B-DURATION",
+      "I-DURATION",
+      "B-ROUTE"
+    ]
+  }
+]
